@@ -4,12 +4,19 @@ A new Flutter project.
 
 Movies and TV Shows app for Final Submission Dicoding "Belajar Membuat Aplikasi Flutter untuk Pemula"
 
+### Movie Page
 Movie Screen <br>
 <img src="https://github.com/aamirM65/filmio/blob/master/Screenshot_20220828_222458.png" width = "300" > <br>
 TV Show Screen <br>
 <img src="https://github.com/aamirM65/filmio/blob/master/Screenshot_20220828_222547.png" width = "300" > <br>
 Detail Screen <br>
-<img src="https://github.com/aamirM65/filmio/blob/master/Screenshot_20220828_222547.png" width = "300" > <br>
+<img src="https://github.com/aamirM65/filmio/blob/master/Screenshot_20220830_112142.png" width = "300" > <br>
+
+### Web Page 
+Movie Screen <br>
+<img src="https://github.com/aamirM65/filmio/blob/master/Screenshot%202022-08-30%20113142.png" height = "500" > <br>
+Detail Screen <br>
+<img src="https://github.com/aamirM65/filmio/blob/master/Screenshot%202022-08-30%20113233.png" height = "500" > <br>
 
 ## Getting Started
 
