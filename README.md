@@ -4,7 +4,7 @@ A new Flutter project.
 
 Movies and TV Shows app for Final Submission Dicoding "Belajar Membuat Aplikasi Flutter untuk Pemula"
 
-### Movie Page
+### Mobile Page
 Movie Screen <br>
 <img src="https://github.com/aamirM65/filmio/blob/master/Screenshot_20220828_222458.png" width = "300" > <br>
 TV Show Screen <br>
